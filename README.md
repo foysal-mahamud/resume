@@ -80,7 +80,7 @@ Full-stack developer and CSE undergraduate with a track record of shipping produ
 
 | Degree | Institution | Year | Result |
 |--------|-------------|------|--------|
-| **B.Sc. Computer Science & Engineering** | North South University, Dhaka | 2023 – Present | CGPA: 3.10 / 4.00 |
+| **B.Sc. Computer Science & Engineering** | North South University, Dhaka | 2023 – Present | CGPA: 3.10 / 4.00 (84% — NSU grading policy) |
 | Higher Secondary Certificate (HSC) | Science Group | 2020 | GPA: 5.00 / 5.00 |
 | Secondary School Certificate (SSC) | Science Group | 2018 | GPA: 5.00 / 5.00 |
 

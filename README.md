@@ -12,7 +12,7 @@
 |---|---|
 | **Email** | foysalmahamud2311@gmail.com |
 | **Phone** | +880 1794 568373 |
-| **LinkedIn** | [linkedin.com/in/foysalmahamud2311](https://linkedin.com/in/foysalmahamud2311) |
+| **LinkedIn** | [linkedin.com/in/foysal-mahamud](https://linkedin.com/in/foysal-mahamud) |
 | **GitHub** | [github.com/foysal-mahamud](https://github.com/foysal-mahamud) |
 | **Location** | Gazipur 1700, Dhaka, Bangladesh |
 
